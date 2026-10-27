@@ -30,7 +30,7 @@ export default function Page() {
       <section className="hero" id="top" aria-labelledby="event-title">
         <div className="hero-copy">
           <p className="eyebrow"><span className="eyebrow-dot" /> Live market notice</p>
-          <h1 id="event-title">Mexc<br /><em>Alerts</em></h1>
+          <h1 id="event-title">Graph is changed!</h1>
           <p className="intro">Notify traders how the coin graph is.</p>
         </div>
 

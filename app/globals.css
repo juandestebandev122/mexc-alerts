@@ -167,7 +167,7 @@
 }
 
 :root {
-  --ink: #292929;
+  --ink: var(--primary);
   --soft-ink: #6e6e6e;
   --line: #d8d8d8;
   --paper: #f4f4f1;
