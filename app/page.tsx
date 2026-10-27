@@ -31,6 +31,7 @@ export default function Page() {
         <div className="hero-copy">
           <p className="eyebrow"><span className="eyebrow-dot" /> Live market notice</p>
           <h1 id="event-title">Graph is changed!</h1>
+          <p>Now on GitHub</p>
           <p className="intro">Notify traders how the coin graph is.</p>
         </div>
 
